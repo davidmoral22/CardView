@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.card"
+    namespace = "com.example.cardview"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.card"
+        applicationId = "com.example.cardview"
         minSdk = 24
         targetSdk = 37
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.example.card
+package com.example.cardview
 
 import org.junit.Test
 

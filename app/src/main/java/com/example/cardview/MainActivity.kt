@@ -1,4 +1,4 @@
-package com.example.card
+package com.example.cardview
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
